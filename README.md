@@ -1,1 +1,1 @@
-# WolfGang-NFT Smart Contract
+# WolfGang-NFT
